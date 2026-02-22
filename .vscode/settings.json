@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "lib",
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\ricam\\OneDrive\\Desktop\\CC3\\repo\\CC3_Task3.1\\lib\\mysql-connector-j-9.6.0.jar"
+    ]
+}
